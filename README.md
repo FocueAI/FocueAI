@@ -1,12 +1,10 @@
 ### Hi there 👋
-
+![My stars](https://github-readme-stats.vercel.app/api?username=FocueAI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <!--
 **FocueAI/FocueAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-
-![My stars](https://github-readme-stats.vercel.app/api?username=FocueAI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
