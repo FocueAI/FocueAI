@@ -1,5 +1,7 @@
 ### Hi there 👋
+<!--
 ![My stars](https://github-readme-stats.vercel.app/api?username=FocueAI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+--->
 ![Game[^1]](github-user-contribution.svg)
 
 
