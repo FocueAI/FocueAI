@@ -3,8 +3,8 @@
 ![My stars](https://github-readme-stats.vercel.app/api?username=FocueAI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 --->
 ![Game[^1]](github-user-contribution.svg)
-
-
+- 🔭 I mainly work in image algorithm related fields, especially fond of OCR
+- 🌱 Recently, I want to learn tasks related to multimodal large models
 
 <!--
 **FocueAI/FocueAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
