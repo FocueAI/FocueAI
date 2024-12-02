@@ -7,6 +7,11 @@
 - 🤔 Strong curiosity about computer science
 ![Game[^1]](github-user-contribution.svg)
 
+</br>
+You are my ![Visitor Count](https://profile-counter.glitch.me/FocueAI/count.svg)th visitor.
+</br>
+
+
 
 <!--
 **FocueAI/FocueAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
