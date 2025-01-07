@@ -1,4 +1,4 @@
-### Hi there 👋 <img align="right" src="https://profile-counter.glitch.me/LinXueyuanStdio/count.svg" />
+### Hi there 👋 <img align="right" src="https://profile-counter.glitch.me/FocueAI/count.svg" />
 <!--
 ![My stars](https://github-readme-stats.vercel.app/api?username=FocueAI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 --->
