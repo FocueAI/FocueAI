@@ -1,5 +1,5 @@
 ### Hi there 👋 <img align="right" src="https://profile-counter.glitch.me/FocueAI/count.svg" />
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FocueAI&langs_count=3&hide=javascript,go,html,css,tex,Roff)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FocueAI&langs_count=3)
 <!--
 ![My stars](https://github-readme-stats.vercel.app/api?username=FocueAI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 --->
