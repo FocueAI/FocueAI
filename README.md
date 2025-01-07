@@ -14,9 +14,17 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/FocueAI/count.svg)
 </br>
 --->
 
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FocueAI&theme=react-dark&bg_color=151515&line=00bfff&point=ffffff&color=00bfff" alt="Contribution Graph" />
 </div>
+--->
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FocueAI&theme=react-dark&bg_color=151515&line=00bfff&point=ffffff&color=00bfff" alt="Contribution Graph" width="500" height="300" />
+</div>
+
+
 
 <!--
 **FocueAI/FocueAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
