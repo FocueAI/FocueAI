@@ -21,7 +21,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/FocueAI/count.svg)
 --->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FocueAI&theme=react-dark&bg_color=151515&line=00bfff&point=ffffff&color=00bfff" alt="Contribution Graph" width="500" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FocueAI&theme=react-dark&bg_color=151515&line=00bfff&point=ffffff&color=00bfff" alt="Contribution Graph" width="800" height="400" />
 </div>
 
 
